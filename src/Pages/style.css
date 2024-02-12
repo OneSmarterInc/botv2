@@ -17,9 +17,9 @@ body {
       .main-card {
         width: 96%;
         max-width:600px;
-        height: calc(100% - 30px) !important;
+        height: calc(100% - 32px) !important;
         border-radius: 8px !important;
-        max-height: 600px;
+        max-height: 700px;
       margin: 16px!important;
       }
     }
@@ -95,7 +95,7 @@ body {
 }
 
 .streamlitbot{
-  height: 900px;
+  height: 1000px;
 }
 
 

@@ -95,7 +95,7 @@ const Home = (props) => {
               }}
             >
               <Link
-                to="pricing"
+                to=""
                 spy={true}
                 smooth={true}
                 offset={-70}
