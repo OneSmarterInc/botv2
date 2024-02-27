@@ -45,7 +45,7 @@ function Chatbot() {
             <h1 className=""></h1>
             <iframe
               className="streamlitbot"
-              src="http://54.160.203.123:8501/"
+              src="https://api.cyberbriefs.org/bot/"
             ></iframe>
           </div>
         </div>
